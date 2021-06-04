@@ -6,6 +6,12 @@ namespace FileHandlingTest
     [TestClass]
     public class CalculatorTests
     {
+        //Pros
+        //let debugging
+        //mere genbrulig kode 
+        //Cons
+        //kan tage tid at lave
+        //kan være overkill for mindre projekter
         #region Math
         [TestMethod]
         public void AdditionEqual()
